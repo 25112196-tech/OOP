@@ -1,4 +1,3 @@
-<<<<<<< HEAD:Tuần 1, 2/Chappter 2.py
 import math
 r = 5
 V = 4/3 * math.pi * r ** 3
@@ -21,8 +20,6 @@ Finishsecond = Finish % 60
 print (f"Finish time is: {Finishhour:02d}:{Finishminute:02d}:{Finishsecond:02d}")
 
 
-
-=======
 import math
 r = 5
 V = 4/3 * math.pi * r ** 3
@@ -45,5 +42,3 @@ Finishsecond = Finish % 60
 print (f"Finish time is: {Finishhour:02d}:{Finishminute:02d}:{Finishsecond:02d}")
 
 
-
->>>>>>> fa82dd1c86c4e7ad90f250cefb55fbf62c51214c:Chappter 2.py
